@@ -1,9 +1,15 @@
 /DDB_2M
 
 *.png
+*.jpg
 
 /logs
-
+/.txt
 /output
-
+/gpt_generated_images
+/80k
+/clip224-l18
+/clip_processor
 *.csv
+.txt
+/*.pt
